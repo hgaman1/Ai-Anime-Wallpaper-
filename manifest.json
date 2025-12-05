@@ -1,0 +1,23 @@
+{
+  "short_name": "AI Wallpaper",
+  "name": "Ai Anime Wallpaper",
+  "description": "حوّل خيالك إلى خلفيات أنمي مذهلة باستخدام الذكاء الاصطناعي.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8B5CF6",
+  "background_color": "#111827"
+}
